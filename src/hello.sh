@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Privet, ya Valera, u ya jivy v terminal"
+echo "Privet, ya jora, u ya jivy v terminal"
